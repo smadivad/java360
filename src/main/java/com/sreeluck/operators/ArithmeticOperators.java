@@ -1,4 +1,5 @@
 package com.sreeluck.operators;
+
 /**
  * @author sxm147 BODMAS RULE BODMAS is an acronym and it stands for Bracket,
  *         Order, Division, Multiplication, Addition, and Subtraction. In
